@@ -23,3 +23,11 @@ For the American farm, the defining words were predominately focused on the farm
 I feel like I should mention that there are many different ways to perform a sentiment analysis. As a farmer myself and language enthusiast, this is just the way that I chose to do it. Don't let my methods and choices defer you from doing this differently if you chose to do so. :)
 
 
+### Acknowledgements:
+THank you to Tina Huang and Ken Lee for all of their guidance and for paving the way for new data scientists to learn and grow their skills. You can find their YouTube channels here: https://www.youtube.com/c/TinaHuang1  https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg
+
+
+### Notes:
+In order to perform the analysis as I did, you will need a developer key. You can get one from Youtube Data API: https://developers.google.com/youtube/v3
+
+
