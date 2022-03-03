@@ -1,4 +1,4 @@
-![sentiment analysis pic.png](
+![sentiment analysis pic.png](https://github.com/jdickson207/final-project-/blob/master/visualizations/sentiment%20analysis%20pic.png?raw=true)
 
 
 
