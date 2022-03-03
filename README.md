@@ -7,3 +7,15 @@ The Oxford Dictionary defines a sentiment analysis as such: sen·ti·ment a·nal
 This sentiment analysis is based on 3 different YouTube channels that focus on their families' dairy farms. I wanted to see if the sentiment and defining words varied based on the channels' geographic locations.  The farm channel names are: Tom Pemberton Farm Life, Sask Dutch Kid, and 10th Generation Dairyman. Tom Pemberton's farm is in Surrey, England. Sask Dutch Kid's farm is in Saskatchewan, Canada. The 10th Generation Dairyman's farm is in Pennsylvania, USA. 
 
 Thank you coming on this journey with me!
+
+
+mkdir Code Data Hypothesis Conclusion Acknowledgements Visualizations
+touch Code/.gitkeep
+touch Data/.gitkeep
+touch Hypothesis/.gitkeep
+touch Conclusion/.gitkeep
+touch Acknowledgements/.gitkeep
+touch Visualizations/.gitkeep
+git add *
+git commit -m "feat: Create directory structure"
+git push
