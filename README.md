@@ -8,8 +8,8 @@ The Oxford Dictionary defines a sentiment analysis as such: sen·ti·ment a·nal
 ## Why do a sentiment analysis?
 Friedrich Nietzsche said: "A good writer possesses not only his own spirit but also the spirit of his friends." I feel like this quote embodies so much of how we, as human beings, express ourselves online. I wanted to explore this concept a bit by doing a sentiment analysis of user comments of chosen YouTube videos though Machine Learning in the area of Natural Language Processing.
 
-### Background information:
-This sentiment analysis is based on 3 different YouTube channels that focus on their families' dairy farms. I wanted to see if the sentiment and defining words varied based on the channels' geographic locations. The farm channel names are: Tom Pemberton Farm Life, Sask Dutch Kid, and 10th Generation Dairyman. Tom Pemberton's farm is in Surrey, England. Sask Dutch Kid's farm is in Saskatchewan, Canada. The 10th Generation Dairyman's farm is in Pennsylvania, USA.
+### Background information/Hypothesis:
+This sentiment analysis is based on 3 different YouTube channels that focus on their families' dairy farms. I wanted to see if the sentiment/defining words varied based on the channels' geographic locations. The farm channel names are: Tom Pemberton Farm Life, Sask Dutch Kid, and 10th Generation Dairyman. Tom Pemberton's farm is in Surrey, England. Sask Dutch Kid's farm is in Saskatchewan, Canada. The 10th Generation Dairyman's farm is in Pennsylvania, USA.
 
 
 ![SDK_wordcloud.png](https://github.com/jdickson207/final-project-/blob/master/visualizations/SDK_wordcloud.png?raw=true)
