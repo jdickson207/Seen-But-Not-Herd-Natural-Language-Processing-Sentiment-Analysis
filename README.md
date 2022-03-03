@@ -20,7 +20,7 @@ I found that the different words that defined each channel varied greatly. For t
 For the Canadian farm, a lot of the words that defined the channel were words that pertained to the farm, like parlor (for a milking parlor) and wellies (boots you wear for muck/mud/messes). These words don't seem to invoke a strong reaction either way, so they would be consdiered neutral. 
 For the American farm, the defining words were predominately focused on the farm and the family members that the farmer mentioned in the video itself. This showed to be quite postive in the the sentiment shown in the words that defined this channel.
 
-I feel like I should mention that there are many different ways to perform a sentiment analysis. As a farmer myself and language enthusiast, this is just the way that I chose to do it. Don't let my methods and choices defer you from doing this differently if you chose to do so. :)
+I feel like I should mention that there are many different ways to perform a sentiment analysis. As an alpaca farmer myself and language enthusiast, this is just the way that I chose to do it. Don't let my methods and choices defer you from doing this differently if you chose to do so. :)
 
 
 ### Acknowledgements:
