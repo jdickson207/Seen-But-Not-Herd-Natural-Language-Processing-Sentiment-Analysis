@@ -24,7 +24,9 @@ I feel like I should mention that there are many different ways to perform a sen
 
 
 ### Acknowledgements:
-THank you to Tina Huang and Ken Lee for all of their guidance and for paving the way for new data scientists to learn and grow their skills. You can find their YouTube channels here: https://www.youtube.com/c/TinaHuang1  https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg
+Thank you to Tina Huang and Ken Lee for all of their guidance and for paving the way for new data scientists to learn and grow their skills. You can find their YouTube channels here:
+Tina- https://www.youtube.com/c/TinaHuang1  
+Ken- https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg
 
 
 ### Notes:
