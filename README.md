@@ -32,4 +32,7 @@ Ken- https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg
 ### Notes:
 In order to perform the analysis as I did, you will need a developer key. You can get one from Youtube Data API: https://developers.google.com/youtube/v3
 
+### Presentation Recording:
+If you're interested in why I did things the way that I did: https://vimeo.com/678862419
+
 
